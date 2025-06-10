@@ -1,7 +1,5 @@
 # kattenluik-gip
 
-Hier is een duidelijke en gestructureerde README voor jouw Arduino-project:
-
 ---
 
 # RFID Toegangscontrole met Servo en LED-indicatoren
